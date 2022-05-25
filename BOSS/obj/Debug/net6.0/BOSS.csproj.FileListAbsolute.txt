@@ -1,0 +1,17 @@
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.AssemblyInfoInputs.cache
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.AssemblyInfo.cs
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\bin\Debug\net6.0\BOSS.exe
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\bin\Debug\net6.0\BOSS.deps.json
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\bin\Debug\net6.0\BOSS.runtimeconfig.json
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\bin\Debug\net6.0\BOSS.dll
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\bin\Debug\net6.0\BOSS.pdb
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.dll
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\refint\BOSS.dll
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.pdb
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.genruntimeconfig.cache
+C:\Users\asus\Source\Repos\ProjectBoss\BOSS\obj\Debug\net6.0\ref\BOSS.dll
+C:\Users\asus\source\repos\ProjectBoss\BOSS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\ProjectBoss\BOSS\obj\Debug\net6.0\BOSS.csproj.CopyComplete

@@ -1,0 +1,61 @@
+[
+  {
+    "IDe": 1,
+    "Name": "Cavad",
+    "Surname": "Yusifzada",
+    "City": "baku",
+    "Number": "1231312",
+    "age": 21,
+    "Vacancies": [
+      {
+        "Name": "Bank menecer",
+        "Description": "(saat is",
+        "Salary": 800
+      },
+      {
+        "Name": "Bank menecer",
+        "Description": "9 saat is",
+        "Salary": 9000
+      }
+    ]
+  },
+  {
+    "IDe": 1,
+    "Name": "212",
+    "Surname": "21",
+    "City": "21",
+    "Number": "12",
+    "age": 21,
+    "Vacancies": []
+  },
+  {
+    "IDe": 1,
+    "Name": "Pasa",
+    "Surname": "Holding",
+    "City": "Baku",
+    "Number": "2111111",
+    "age": 30,
+    "Vacancies": [
+      {
+        "Name": "Muhasibat",
+        "Description": "Musahibatliqda 9 saat is. Riyaziyyat bilikleri",
+        "Salary": 1300
+      },
+      {
+        "Name": "Meslehetci",
+        "Description": "9 saat is. Is ofisdedir.",
+        "Salary": 800
+      },
+      {
+        "Name": "Insaat muhendisi",
+        "Description": "Bina tikintisi ile mesgul olan muhendis axtarilir.",
+        "Salary": 1600
+      },
+      {
+        "Name": "Hidrolog",
+        "Description": "Tikintide hidroloji muhendis axtarilir. 9 saat is.",
+        "Salary": 1300
+      }
+    ]
+  }
+]
